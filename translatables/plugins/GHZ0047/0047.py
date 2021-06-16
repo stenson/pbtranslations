@@ -1,6 +1,5 @@
 from pbt.translations import *
 
-
 ts = TranslationSet()
 
 ts.append(T(tag="ClumpLabel/text",
